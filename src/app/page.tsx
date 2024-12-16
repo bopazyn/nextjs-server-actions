@@ -30,6 +30,15 @@ const Page = () => (
       <li>
         <Link href="/use-hook-server-component">Use hook with server component</Link>
       </li>
+      <li>
+        <Link href="/server-action-use-effect">Server action with useEffect</Link>
+      </li>
+      <li>
+        <Link href="/server-action-use-effect-client-component">Server action with useEffect and client component</Link>
+      </li>
+      <li>
+        <Link href="/server-action-use-effect-server-component">Server action with useEffect and server component</Link>
+      </li>
     </ul>
   </main>
 );
